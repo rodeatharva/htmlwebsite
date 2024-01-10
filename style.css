@@ -1,0 +1,13 @@
+h1{
+    color:green;
+}
+p[ddd="true"]{
+    color:red;
+}
+p[ddd="false"]{
+    color:yellow;
+}
+/*for all*/
+*{
+    background:black;
+}
